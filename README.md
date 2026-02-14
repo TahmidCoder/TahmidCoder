@@ -1,26 +1,48 @@
+![Web Developer](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop)
 
-![web developer ](https://media.licdn.com/dms/image/v2/D4D12AQGXjzbAJKAgOw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680499811064?e=2147483647&v=beta&t=nWtKmf583rMcZAKVwbVRHKsEc4y_DswiahikHx7QAW4)
+## Hi there 👋 I'm Tahmid  
+### Full-Stack Web Developer
 
-### Hi there 👋, my name is tahmid
-#### web developer 
+I’m a **Full-Stack Web Developer** focused on building modern, responsive, and scalable web applications.  
+I enjoy working across the stack—from crafting clean user interfaces to developing secure and efficient backend systems.
 
-"Hi there! I am a skilled front-end developer with expertise in HTML, CSS, JavaScript, and React.js. I specialize in creating modern, responsive, and interactive websites. To make your website stand out, I use React for smooth animations. I am committed to delivering high-quality work on time and ensuring client satisfaction. Whether you need a new website or want to enhance an existing one, I’m here to help. Let’s work together to bring your ideas to life!"
+I believe in writing **clean, maintainable code** and learning by building real-world projects.
 
-Skills: REACT / JS / HTML / CSS
+---
 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on github 
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Node.js, Express  
+- MongoDB  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmid-coder99)  
+### 🌱 Currently
+- Improving backend and system-level skills  
+- Building full-stack projects  
+- Learning by doing
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tahmid-coder99)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-coder99)](https://github.com/anuraghazra/github-readme-stats)
+### 🤝 Open To
+- Collaboration on GitHub  
+- Real-world projects  
+- Learning opportunities
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmid-coder99&show_icons=true&count_private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/tahmid-coder99)  
+### 🔗 Connect with me
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/TahmidCoder)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmid-coder99)  
+---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahmidCoder&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidCoder&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TahmidCoder)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TahmidCoder&margin-w=8)
