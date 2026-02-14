@@ -34,6 +34,8 @@ I believe in writing **clean, maintainable code** and learning by building real-
 
 ### 🔗 Connect with me
 [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/TahmidCoder)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/tahmid-dev/)
+[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mail-dot-ru.svg)](mailto:mdtahmid0003@gmail.com)
 
 ---
 
