@@ -33,18 +33,13 @@ I believe in writing **clean, maintainable code** and learning by building real-
 ---
 
 ### 🔗 Connect with me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/TahmidCoder)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/tahmid-dev/)
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mail-dot-ru.svg)](mailto:mdtahmid0003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahmidCoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtahmid0003@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahmidCoder&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidCoder&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=TahmidCoder)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TahmidCoder&margin-w=8)
