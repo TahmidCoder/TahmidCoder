@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/M8xF8Tn.png" width="100%" alt="Tahmid's Cover Banner" />
-
 # 🚀 Hi, I'm Tahmid
 ### Full-Stack Web Developer | MERN Specialist
 
@@ -12,18 +10,29 @@
 
 ---
 
+<img src="https://i.imgur.com/M8xF8Tn.png" width="500px" alt="Tahmid's Banner" />
+
+---
+
 ### ⚡ Quick About Me
-I’m a **Full-Stack Web Developer** focused on building modern, responsive, and scalable web applications. I enjoy working across the stack—from crafting clean user interfaces to developing secure and efficient backend systems.
+I’m a **Full-Stack Web Developer** focused on building modern, responsive, and scalable web applications.  
+I enjoy working across the stack—from crafting clean user interfaces to developing secure backend systems.
 
 </div>
 
+---
+
 ### 🛠 Tech Stack & Tools
 
-| **Frontend** | **Backend** | **Tools & Others** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) | ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square) |
+| **Database/Tools** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
+
+</div>
 
 ---
 
@@ -36,7 +45,7 @@ I’m a **Full-Stack Web Developer** focused on building modern, responsive, and
 ---
 
 ### 🤝 Let's Connect
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tahmid-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
